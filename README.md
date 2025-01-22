@@ -43,11 +43,11 @@ This project demonstrates how to create a VPC with a public subnet, an internet 
    ```bash
    terraform init
 
-2. **Plan the Changes**
+2. **Plan the Changes:**
    ```bash
   terraform plan
 
-3. **Apply the Changes**
+3. **Apply the Changes:**
     ```bash
   terraform apply
 
@@ -66,7 +66,7 @@ This project demonstrates how to create a VPC with a public subnet, an internet 
  **Author: Daniel Osarobo**
  **LinkedLn: ** 
 
- ##Disclaimer 
+ ## Disclaimer 
 
  This README file provides a clear and concise overview of your project. You can further enhance it by:
 
