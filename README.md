@@ -44,12 +44,12 @@ This project demonstrates how to create a VPC with a public subnet, an internet 
    terraform init
 
 2. **Plan the Changes:**
-   ```bash
-  terraform plan
+    ```bash
+   terraform plam
 
 3. **Apply the Changes:**
-    ```bash
-  terraform apply
+      ```bash
+   terraform apply
 
 4. **SSH to the Bastion Host:**
    ```bash
