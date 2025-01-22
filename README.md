@@ -65,8 +65,7 @@ This project demonstrates how to create a VPC with a public subnet, an internet 
  * Stronger network setups like NAT gateways for example.
 
  **Author: Daniel Osarobo**
- **LinkedLn: ** 
-
+ **Linkedln: www.linkedin.com/in/daniel-osarobo**
  ## Disclaimer 
 
  This README file provides a clear and concise overview of your project. You can further enhance it by:
