@@ -52,6 +52,7 @@ This project demonstrates how to create a VPC with a public subnet, an internet 
    terraform apply
 
 4. **SSH to the Bastion Host:**
+        ```bash
 ssh -i "path/to/your/keypair.pem" ec2-user@<Public_IP_address_of_Bastion_Host>
 
  ## Note: 
