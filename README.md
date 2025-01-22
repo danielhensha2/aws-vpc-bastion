@@ -1,8 +1,7 @@
 # Creating a Simple VPC with Bastion Host using Terraform
 
 ## Objective
-This project demonstrates how to create a VPC with a public subnet, an internet gateway, and a Bastion Host using Terraform.
-
+This is my first terraform project and 100% my effort. This project shows how to use Terraform to set up a VPC with a public subnet, an internet gateway, and a Bastion Host. It is strictly a practice exercise. This project will not be featured on LinkedIn or in any blog posts; it is only meant to be used for testing and learning.
 
 **Key Components:**
 
