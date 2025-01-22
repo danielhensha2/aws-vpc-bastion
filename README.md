@@ -66,13 +66,5 @@ This is my first terraform project and 100% my effort. This project shows how to
  **Author: Daniel Osarobo**
 
  **Linkedln: www.linkedin.com/in/daniel-osarobo**
- ## Disclaimer 
-
- This README file provides a clear and concise overview of your project. You can further enhance it by:
-
-* **Adding a diagram:** Include a simple diagram of your VPC architecture (VPC, subnets, internet gateway, Bastion Host) to visually represent the infrastructure.
-* **Including troubleshooting tips:** Add a section with common issues and their potential solutions.
-* **Adding a section on cleaning up resources:** Include instructions on how to destroy the created resources using `terraform destroy`.
-
-* Remember to replace placeholders like `path/to/your/keypair.pem` with the actual values. 
+ ## Thank You
 
